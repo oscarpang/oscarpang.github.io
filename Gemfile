@@ -26,4 +26,8 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'hawkins'
   gem 'jekyll-scholar'
+  gem "jekyll-paginate"
+  gem "jekyll-gist"
+  gem "jekyll-redirect-from"
+  gem "kramdown-parser-gfm"
 end
